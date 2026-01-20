@@ -24,14 +24,18 @@ src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3
 <h3 align="left">🛠️ Languages & Tools</h3>
 
 #### Frontend Stack
+#### Frontend Stack
+#### Frontend Stack
 <p align="left">
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" width="40" height="40" title="HTML"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" width="40" height="40" title="CSS"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="40" height="40" title="JavaScript"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" width="40" height="40" title="React"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" width="40" height="40" title="Tailwind CSS"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/materialui/materialui.png" width="40" height="40" title="Material UI"/>
+  <img src="https://www.vectorlogo.zone/logos/mui/mui-icon.svg" width="40" height="40" title="Material UI"/>
 </p>
+
+
 
 #### Backend & Services
 <p align="left">

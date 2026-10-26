@@ -88,7 +88,7 @@ Building an AI-powered customer support application that helps users get answers
 
 - 📧 **Email:** [ypravesh0007@gmail.com](mailto:ypravesh0007@gmail.com)
 - 🔗 **LinkedIn:** [Pravesh Yadav](https://www.linkedin.com/in/pravesh-yadav-a6536a207/)
-- 💻 **GitHub:** [My GitHub Profile][(https://github.com/praveshnexus)]
+- 💻 **GitHub:** [(https://github.com/praveshnexus)]
 
 ---
 

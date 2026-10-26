@@ -1,77 +1,95 @@
-<!-- Header Section -->
-<h1 align="center">
-  Hi 👋, I'm <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE/">Frontend Developer</a>
-</h1>
+# 👋 Hi, I'm Pravesh Yadav
 
-<h3 align="center">
-  Frontend-focused Software Engineer passionate about building scalable, responsive, and user-centric web applications using modern JavaScript frameworks.
-</h3>
+### Aspiring AI Engineer | Full-Stack Developer | LLM-Powered Applications
 
-<!-- GIF -->
-<img align="right" height="300" width="500" 
-src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+I'm a software developer focused on building practical AI-powered applications using Python, backend engineering, modern web technologies, and Large Language Models (LLMs).
 
-<!-- About Section -->
-<h3 align="left">🚀 About Me</h3>
-
-- I specialize in **Frontend Development** with a strong focus on **React and JavaScript**  
-- I build **responsive, performant, and clean UI applications**
-- Experienced with **authentication, state management, and API integration**
-- Currently pursuing **M.Tech (Computer Science)** and actively seeking **Frontend / SDE roles**
+- 🤖 Building **ResolveAI** — an AI-powered customer support and resolution agent.
+- 🧠 Learning applied AI engineering and LLM integration.
+- 💻 Building web applications with React, TypeScript, and REST APIs.
+- 🎓 Currently pursuing M.Tech in Computer Science.
+- 🎯 Interested in entry-level AI Engineer and Software Engineer opportunities.
 
 ---
 
-<h3 align="left">🛠️ Languages & Tools</h3>
+## 🛠️ Tech Stack
 
-#### Frontend Stack
-#### Frontend Stack
-#### Frontend Stack
-<p align="left">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" width="40" height="40" title="HTML"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" width="40" height="40" title="CSS"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="40" height="40" title="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" width="40" height="40" title="React"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" width="40" height="40" title="Tailwind CSS"/>
-  <img src="https://www.vectorlogo.zone/logos/mui/mui-icon.svg" width="40" height="40" title="Material UI"/>
+### 🤖 AI & Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express" alt="Python, FastAPI, Node.js, Express" />
 </p>
 
+- Python
+- FastAPI
+- REST APIs
+- LLM API integration
 
+### 🎨 Frontend Development
 
-#### Backend & Services
-<p align="left">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/appwrite/appwrite.png" width="40" height="40" title="Appwrite"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png" width="40" height="40" title="Firebase"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind,vite" alt="React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Vite" />
 </p>
 
-#### Programming Languages
-<p align="left">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" width="40" height="40" title="Java"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="40" height="40" title="Python"/>
+- React and TypeScript
+- JavaScript, HTML5, and CSS3
+- Tailwind CSS
+- Responsive UI development
+
+### 🗄️ Databases & Services
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,appwrite,firebase" alt="PostgreSQL, Appwrite, Firebase" />
 </p>
 
-#### Tools & Version Control
-<p align="left">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="40" height="40" title="Git"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" width="40" height="40" title="GitHub"/>
+- PostgreSQL
+- Appwrite and Firebase
+- Database integration
+
+### ⚙️ Developer Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Git, GitHub, VS Code, Postman" />
 </p>
 
-#### Editor / IDE
-<p align="left">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" width="40" height="40" title="VS Code"/>
-</p>
+- Git and GitHub
+- Visual Studio Code
+- Postman
 
 ---
 
-<h3 align="left">📌 What I’m Looking For</h3>
+## 🚀 Featured Project
 
-- Frontend Developer Intern / Entry-Level Roles  
-- Software Development Engineer (Frontend-focused)  
-- Opportunities to work on **real-world UI, scalable products, and modern web technologies**
+### ResolveAI — AI Customer Support & Resolution Agent
+
+Building an AI-powered customer support application that helps users get answers to their queries through an intelligent conversational interface.
+
+**Key development areas:**
+- Integrating LLMs into backend applications.
+- Building APIs using Python and FastAPI.
+- Connecting frontend interfaces with AI-powered backend services.
+- Handling user queries and generating contextual responses.
+- Developing maintainable AI application workflows.
+
+**Tech stack:** Python, FastAPI, React, TypeScript, and LLM APIs.
 
 ---
 
-<h3 align="left">📫 Connect With Me</h3>
+## 🎯 Career Interests
 
-- 💬 Ask me about **Frontend Development, React, JavaScript**
-- 📫 Email: **ypravesh0007@gmail.com**
-- 🔗 LinkedIn: **https://www.linkedin.com/in/pravesh-yadav-a6536a207/**
+- Entry-Level AI Engineer / Applied AI Engineer
+- LLM Application Developer
+- Software Engineer
+- AI Engineering Intern
+
+---
+
+## 📫 Connect With Me
+
+- 📧 **Email:** [ypravesh0007@gmail.com](mailto:ypravesh0007@gmail.com)
+- 🔗 **LinkedIn:** [Pravesh Yadav](https://www.linkedin.com/in/pravesh-yadav-a6536a207/)
+- 💻 **GitHub:** [My GitHub Profile][(https://github.com/praveshnexus)]
+
+---
+
+*Building software, learning applied AI, and turning ideas into working products.*
